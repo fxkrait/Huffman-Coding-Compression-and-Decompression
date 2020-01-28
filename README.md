@@ -2,6 +2,7 @@
 
 ## Output:
 
+```java
 greghab@nixGreg> java Huffman                                                                                                                                                                                                                                                   ~/Huffman-Coding-Compression-and-Decompression
 Input file is:
 "a b e b c d"
@@ -137,3 +138,4 @@ fileSize(input4.txt) : bytes : 183
 fileSize(encoded4.txt) : bytes : 22
 fileSize(decoded4.txt) : bytes : 176
 You have compressed the file: 832.0%!
+```
